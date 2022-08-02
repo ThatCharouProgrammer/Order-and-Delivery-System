@@ -1,4 +1,4 @@
-# Order-and-Delivery-Syste
+# Order-and-Delivery-System
 Database project made using Java, MySQL and Netbeans.
 
 ## Description
